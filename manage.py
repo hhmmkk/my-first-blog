@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+# local venv : d_env
+# id: min
+# https://www.pythonanywhere.com/  : hhmmkk
+
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
